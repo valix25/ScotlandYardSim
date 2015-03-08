@@ -1,0 +1,14 @@
+How to run the program:
+
+I wrote the code in eclipse but I also managed to run it from terminal.
+1. cd to_where_the_jar_file_is
+2. $ java -jar VisScotlandYard.jar london.map 27 taxi bus subway
+or just 
+$ java -jar VisScotlandYard.jar london.map 27
+( the last 4 arguments are part from a previous assignment and they don't matter for the current functionality)
+
+I tried to incorporate a restart functionality, but when I tried be it with a button or menu item, the picture wouldn't be drawn anymore although the process would work in the console/standard input. The problem
+was that I couldn't figure out why the picture/drawing dissapeared. If nothing is drawn try to run the program once more.
+
+The rest of the implementation should work nice and smooth.
+For further questions leave a message.
