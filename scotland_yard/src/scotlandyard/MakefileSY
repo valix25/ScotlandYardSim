@@ -1,0 +1,4 @@
+default:
+	ant
+clean:
+	@rm -rf bin/

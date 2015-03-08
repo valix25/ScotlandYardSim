@@ -1,0 +1,7 @@
+# could alos build through ant -d build
+# and after ant -f build.xml Main {args}
+
+default:
+	ant
+clean:
+	@rm -rf bin/
